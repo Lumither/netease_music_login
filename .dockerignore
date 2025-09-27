@@ -1,0 +1,17 @@
+/.git
+/.gitignore
+/.dockerignore
+/.venv
+/__pycache__
+/*.local
+
+/.DS_Store
+/*/.DS_Store
+
+/login_record
+
+/README.md
+/.env.template
+/docker-compose.yaml
+/Dockerfile
+

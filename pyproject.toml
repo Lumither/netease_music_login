@@ -1,0 +1,12 @@
+[project]
+name = "netease-login"
+version = "0.1.0"
+description = "music.163.com login using session cookie"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-dotenv>=1.1.1",
+    "retrying>=1.4.2",
+    "selenium>=4.35.0",
+    "webdriver-manager>=4.0.2",
+]
